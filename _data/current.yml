@@ -142,6 +142,13 @@
   url: https://www.unicomlearning.com/agile-devops-software-testing-conference/pune-india-2023/?utm_source=testingconferences
   twitter: UNICOMLearning
   status: Registration is Open
+  
+- name: Testing Talks Conference
+  location: Sydney, Australia
+  dates: "July 26, 2023"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2023-sydney
+  twitter: testingtalks
+  status: <a href="https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2023-sydney#tickets" target="_blank">Purchase tickets</a>
 
 - name: Testμ Conference 2023
   location: Online
@@ -245,6 +252,13 @@
   dates: "October 10, 2023"
   url: https://qualitycon.tech/?utm_source=testingconferences
   status: <a href="https://qualitycon.tech/#pricing/?utm_source=testingconferences" target="_blank">Super Early Bird registration is open until May 10, 2023</a>, <a href="https://forms.gle/oqbMzPDMHRcpsrMj7/?utm_source=testingconferences" target="_blank">CFP is Open until April 20, 2023</a>
+
+- name: Testing Talks Conference
+  location: Melbourne, Australia
+  dates: "October 12, 2023"
+  url: https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2023-melbourne
+  twitter: testingtalks
+  status: <a href="https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2023-melbourne#tickets" target="_blank">Purchase tickets</a>
 
 - name: SeaStar Quality Conference 2023
   location: Dominican Republic
